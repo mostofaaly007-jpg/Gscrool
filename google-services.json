@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917168706778",
+    "project_id": "gscrool-6ff6c",
+    "storage_bucket": "gscrool-6ff6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917168706778:android:568a4ff95c247d3e3d01e3",
+        "android_client_info": {
+          "package_name": "com.gscrool.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAveXkD7aUA7qzXjDqDVbxDadns4he8NH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
